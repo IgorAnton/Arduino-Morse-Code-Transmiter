@@ -5,7 +5,7 @@
 Schematic:
  
  
-![Arduino Scmetaic](images/Schematics.png)
+![Arduino Scmetaic](images/Schematic.png)
 
 
 
